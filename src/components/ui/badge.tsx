@@ -5,7 +5,7 @@ function Badge({
   className,
   variant = "default",
   ...props
-}: React.HTMLAttributes<HTMLDivElement> & {
+}: React.HTMLAttributes<HTMLSpanElement> & {
   variant?: "default" | "secondary" | "outline" | "destructive";
 }) {
   const variants: Record<string, string> = {
@@ -16,7 +16,7 @@ function Badge({
   };
 
   return (
-    <div
+    <span
       className={cn(
         "inline-flex items-center rounded-lg px-2.5 py-0.5 text-xs font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2",
         variants[variant],
