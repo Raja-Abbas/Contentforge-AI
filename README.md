@@ -2,7 +2,7 @@
 
 > AI-powered workspace for content generation, summarization, email drafting, and business automation with multi-provider support.
 
-**Live Demo:** [contentforge-ai-next.netlify.app](https://contentforge-ai.netlify.app)  
+**Live Demo:** [contentforge-ai-next.netlify.app](https://contentforge-ai-next.netlify.app)  
 **Demo Credentials:** `demo@contentforge.ai` / `password123`
 
 ---
