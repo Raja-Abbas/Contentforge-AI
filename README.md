@@ -1,9 +1,12 @@
 # ContentForge AI — AI Business Automation & Content Workspace
 
+> **Status:** MVP 1 — Feature-complete prototype. All core features implemented and working. Login removed for public testing — all pages freely accessible.
+
 > AI-powered workspace for content generation, summarization, email drafting, and business automation with multi-provider support.
 
-**Live Demo:** [contentforge-ai-next.netlify.app](https://contentforge-ai-next.netlify.app)  
-**Demo Credentials:** `demo@contentforge.ai` / `password123`
+**Live Demo:** [contentforge-ai-next.netlify.app](https://contentforge-ai-next.netlify.app)
+
+> **Note:** Authentication has been removed for this MVP to allow free access to all features. No login or signup required.
 
 ---
 
