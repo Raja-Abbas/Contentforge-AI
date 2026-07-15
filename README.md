@@ -54,7 +54,7 @@ ContentForge AI is a SaaS platform that connects to multiple AI providers (OpenA
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/contentforge-ai.git
+git clone https://github.com/raja-abbas-affandi/contentforge-ai.git
 cd contentforge-ai
 
 # Install dependencies
